@@ -13,3 +13,6 @@ Some words are automatically highlighted/displayed in different colors. These ar
 
 ## Editing text files
 Once a text file has been created and committed, you can click the pencil button in the top-right of the document to add your edits. You'll have to commit your changes (save the file) manually every time.
+
+## Downloading files
+Any file can be downloaded by clicking the button next to the pencil. It looks like most download icons, kind of like an upside down staple with a down arrow above it.
