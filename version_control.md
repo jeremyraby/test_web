@@ -6,3 +6,6 @@ The most direct way that **I** know how to do this is to open the file page then
 
 ## Getting Older Versions
 What I'm not 100% sure on is how to actually get older versions of files. I've not had to do this, so I've only read about it a few times a long time ago. **But** [this 1:15 video](https://www.youtube.com/watch?v=l48bjGUcqXQ) shows how to do it fairly quickly.
+
+## Branching and merging
+Think of the TVA and Loki - the "main branch" is the Sacred Timeline and "branches" are alternate timelines which can either be pruned or "merged" with the "main branch." Making branches/"pull requests"/"merging" isn't something I've done, but I can see how it would be helpful for you as a designer as you can make multiple simultaneous edits to a carousel post and then decide which you want to keep (for example). Google how to do this (or check the repo I linked on the README) if you decide you want to try.
