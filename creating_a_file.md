@@ -1,4 +1,6 @@
 # How to create a new file
+You can click the `+` button toward the top-right of the list of files (left of the green `<> Code` button) to create or upload a new file. Multiple files can be uploaded at a time, but you only get 1 commit message about each one - choose wisely lol
+
 ## Types of files that can be created
 Only plaintext and Markdown (`.md`) files can be created. It will default to plaintext if you don't specify a filetype in the filename above.
 
