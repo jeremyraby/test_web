@@ -10,3 +10,6 @@ Coders and programming languages have very specific and strong opinions on how i
 
 ## Keyword Highlights
 Some words are automatically highlighted/displayed in different colors. These are programming keywords and don't mean anything, but you should probably be aware it will happen and won't affect you other than possibly be annoying. It will be different depending on if you're using plaintext or Markdown.
+
+## Editing text files
+Once a text file has been created and committed, you can click the pencil button in the top-right of the document to add your edits. You'll have to commit your changes (save the file) manually every time.
